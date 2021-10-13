@@ -1,2 +1,3 @@
 Começando a escrever coisas para atualizar no git.
 Escrevendo ainda mais coisas.
+Agora estou escrevendo essa linha para ver se após o commit, o github atualiza automaticamente.
